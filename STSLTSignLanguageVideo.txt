@@ -1,10 +1,10 @@
 [
   {
-    "TextKey": "hello",
+    "TextKey": "Hello.",
     "GoogleDriveId": "1RvssGKnGGXVAAPZ5cU3KOQz6r6tnzhjj"
   },
   {
-    "TextKey": "thank you",
+    "TextKey": "Thank you.",
     "GoogleDriveId": "1RXjFQyyHsRo8sD4jDjnhca3nMzGlE3k6"
   }
 ]
