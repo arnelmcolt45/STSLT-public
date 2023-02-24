@@ -1,10 +1,10 @@
 [
   {
     "TextKey": "Hello.",
-    "GoogleDriveId": "1RvssGKnGGXVAAPZ5cU3KOQz6r6tnzhjj"
+    "VideoUrl": "https://stslt.blob.core.windows.net/vid/hello.mp4"
   },
   {
     "TextKey": "Thank you.",
-    "GoogleDriveId": "1RXjFQyyHsRo8sD4jDjnhca3nMzGlE3k6"
+    "VideoUrl": "https://stslt.blob.core.windows.net/vid/thank you.mp4"
   }
 ]
