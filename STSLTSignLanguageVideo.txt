@@ -1,13 +1,10 @@
-{
-  "signlanguagevideo": [
-    {
-      "textkey": "hello",
-      "googledriveid": "1RvssGKnGGXVAAPZ5cU3KOQz6r6tnzhjj"
-    }
-    ,
-    {
-      "textkey": "thank you",
-      "googledriveid": "1RXjFQyyHsRo8sD4jDjnhca3nMzGlE3k6"
-    }
-  ]
-}
+[
+  {
+    "TextKey": "hello",
+    "GoogleDriveId": "1RvssGKnGGXVAAPZ5cU3KOQz6r6tnzhjj"
+  },
+  {
+    "TextKey": "thank you",
+    "GoogleDriveId": "1RXjFQyyHsRo8sD4jDjnhca3nMzGlE3k6"
+  }
+]
